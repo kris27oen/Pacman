@@ -1,2 +1,3 @@
-Introduction to Programming **Final Project**: Pacman\n
-Language used: C
+# Introduction to Programming
+## Final Project: Pacman
+> Language used: C
